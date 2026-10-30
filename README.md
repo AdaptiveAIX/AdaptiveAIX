@@ -1,7 +1,6 @@
 # Adaptive AIX
 
 **Creating New Communication Waves.**  
-
 From Idea to AI-Powered Business.
 
 Validate. Build. Apply. Scale.
@@ -30,5 +29,10 @@ This creates structural leverage: build once, refine through real use, and exten
 - X: [@AdaptiveAIX](https://x.com/AdaptiveAIX)
 - LinkedIn: [Adaptive AIX](https://linkedin.com/company/adaptiveaix)
 - Linktree: [linktr.ee/AdaptiveAIX](https://linktr.ee/AdaptiveAIX)
+
+## License
+
+All rights reserved — Adaptive AIX.  
+This repository is for informational purposes only. The content, branding, and materials are proprietary to Adaptive AIX.
 
 #Adapters 🦖

@@ -3,8 +3,7 @@
 # Adaptive AIX
 
 **Creating New Communication Waves.**  
-From Idea to AI-Powered Business.
-
+From Idea to AI-Powered Business.  
 Validate. Build. Apply. Scale.
 
 **Website:** [https://adaptiveaix.com](https://adaptiveaix.com)

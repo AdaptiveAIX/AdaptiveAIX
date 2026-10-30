@@ -32,7 +32,8 @@ This creates structural leverage: build once, refine through real use, and exten
 
 ## License
 
-All rights reserved — Adaptive AIX.  
-This repository is for informational purposes only. The content, branding, and materials are proprietary to Adaptive AIX.
+Copyright © 2026 Adaptive AIX. All rights reserved.
+
+This repository and its contents are proprietary to Adaptive AIX. No part of this material may be reproduced, distributed, or transmitted in any form or by any means without prior written permission from Adaptive AIX.
 
 #Adapters 🦖

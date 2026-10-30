@@ -1,4 +1,4 @@
-![Adaptive AIX Waves](banner.png)
+![Adaptive AIX](./banner.png)
 
 # Adaptive AIX
 

@@ -1,6 +1,7 @@
 # Adaptive AIX
 
 **Creating New Communication Waves.**  
+
 From Idea to AI-Powered Business.
 
 Validate. Build. Apply. Scale.

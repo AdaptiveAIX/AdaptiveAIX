@@ -1,3 +1,5 @@
+![Adaptive AIX Waves](banner.png)
+
 # Adaptive AIX
 
 **Creating New Communication Waves.**  

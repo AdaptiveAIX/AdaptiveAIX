@@ -1,38 +1,33 @@
-![Adaptive AIX](./banner.png)
+![Adaptive AIX — Creating New Communication Waves.](./banner.png)
 
 # Adaptive AIX
 
 **Creating New Communication Waves.**  
-From Idea to AI-Powered Business.  
-Validate. Build. Apply. Scale.
+From Idea to AI-Powered Business.
 
-**Website:** [https://adaptiveaix.com](https://adaptiveaix.com)
+Adaptive AIX turns validated market problems into operational AI-powered businesses, using the same system for its own products and for selected clients.
 
----
+**Validate. Build. Apply. Scale.**
 
-## About
+## How it works
 
-Adaptive AIX is an AI-native company that turns validated market problems into operational AI-powered businesses.
+Most companies treat AI as a feature or a project. Adaptive AIX treats it as infrastructure. One system, two engines, and a white-label layer:
 
-Most companies treat AI as a feature or a project. Adaptive AIX treats it as infrastructure. The quality of the system determines the quality and speed of the businesses created.
+- **Internal engine** — we build our own AI-powered businesses, designed for reuse.
+- **Client engine** — we apply the same system to selected companies and founders.
+- **White-label layer** — proven internal products offered as ready capabilities. White-label is not automatic: a product is offered only after it meets the readiness standard.
 
-The Dual Engine is one system with three layers:
+No stage is skipped. Evidence is required before progress.
 
-- **Internal** — builds its own portfolio of AI-powered products.
-- **Client** — applies the same system to selected companies and founders.
-- **White-label** — proven internal products offered as ready capabilities.
+## Explore
 
-This creates structural leverage: validate, build, apply, and scale.
+- [Operating System](https://adaptiveaix.com/operating-system) — how Adaptive AIX works
+- [Portfolio](https://adaptiveaix.com/portfolio) — current products and selected engagements, each with one stated stage
+- [For Partners](https://adaptiveaix.com/for-partners) — how companies, investors, and programs work with Adaptive AIX
+- [Start a conversation](https://adaptiveaix.com/contact)
 
-## Links
+## Connect
 
-- Website: [adaptiveaix.com](https://adaptiveaix.com)
-- X: [@AdaptiveAIX](https://x.com/AdaptiveAIX)
-- LinkedIn: [Adaptive AIX](https://linkedin.com/company/adaptiveaix)
-- Linktree: [linktr.ee/AdaptiveAIX](https://linktr.ee/AdaptiveAIX)
+[Website](https://adaptiveaix.com) · [LinkedIn](https://www.linkedin.com/company/adaptiveaix) · [X](https://x.com/AdaptiveAIX) · [Telegram](https://t.me/AdaptiveAIX) · [Crunchbase](https://www.crunchbase.com/organization/adaptive-aix) · [Linktree](https://linktr.ee/AdaptiveAIX) · contact@adaptiveaix.com
 
-## License
-
-Copyright © 2026 Adaptive AIX. All rights reserved.
-
-This repository and its contents are proprietary to Adaptive AIX. No part of this material may be reproduced, distributed, or transmitted in any form or by any means without prior written permission from Adaptive AIX.
+<sub>© 2026 Adaptive AIX. All rights reserved. See [LICENSE](./LICENSE).</sub>
